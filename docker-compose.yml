@@ -1,0 +1,6 @@
+# Local worker only. Run the Next.js app with `npm run dev`.
+services:
+  worker:
+    build: ./worker
+    env_file: .env
+    ports: ["8000:8000"]
