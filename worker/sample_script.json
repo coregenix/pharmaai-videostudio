@@ -1,0 +1,6 @@
+{"sections":[
+{"key":"introduction","heading":"Introduction","narration":"Propranolol is a beta blocker used widely in cardiovascular medicine.","bullets":["Non-selective beta blocker","Lipophilic, crosses the blood-brain barrier"],"visual":{"type":"bullets","labels":[]}},
+{"key":"mechanism","heading":"Mechanism of action","narration":"Propranolol competitively blocks beta one and beta two adrenergic receptors, reducing the effect of catecholamines.","bullets":[],"visual":{"type":"receptor","labels":["Propranolol","Beta receptor","Reduced heart rate"]}},
+{"key":"adme","heading":"Pharmacokinetics","narration":"Absorption is good, with extensive first pass metabolism in the liver.","bullets":[],"visual":{"type":"adme","labels":[]}},
+{"key":"classification","heading":"Classification","narration":"Beta blockers are grouped by receptor selectivity.","bullets":[],"visual":{"type":"classification","labels":["Beta blockers","Non-selective","Cardioselective","Alpha plus beta"]}}
+]}
